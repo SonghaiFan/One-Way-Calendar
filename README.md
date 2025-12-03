@@ -1,6 +1,6 @@
 # One-Way Calendar / 单向历
 
-[English](#english) | [中文](#chinese-chinese)
+[English](#english) | [中文](#chinese)
 
 ## English
 
@@ -40,7 +40,7 @@ This is a standalone HTML application. No build process or installation is requi
 
 ---
 
-## 中文 (Chinese)
+## Chinese
 
 ### 简介
 
